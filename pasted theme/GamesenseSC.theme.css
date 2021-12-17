@@ -254,7 +254,7 @@ input,textarea{
     font-family:'Raleway'
 }
 .wordmark-2iDDfm::before{
-    content:'game';
+    content:'Evolocity';
     font-size:14px;
     z-index:1000;
     position:fixed;
@@ -268,18 +268,7 @@ input,textarea{
 .mention-1f5kbO {
     background-color: var(--primary-color)!important;
 }
-.wordmark-2iDDfm::after{
-    content:'sense';
-    font-size:14px;
-    z-index:1000;
-    position:fixed;
-    display:inline-block;
-    color:var(--primary-color);
-    height:auto;
-    top:12px;
-    left:52px;
-    background-color:transparent
-}
+
 
 .winButtonClose-1HsbF-{
     height:33px;
